@@ -3,4 +3,5 @@ project(WDP)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(WDP main.cpp)
+add_executable(WDP test-poziomujacy/Spirala.cpp
+)
